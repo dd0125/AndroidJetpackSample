@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jp.daisuke.taji.jetpacksample.MainActivity" >
+    <item android:id="@+id/action_data_binding"
+            android:title="DataBinding"
+            android:orderInCategory="100"
+            app:showAsAction="never" />
+    <item android:id="@+id/action_kotlin"
+            android:title="Kotlin"
+            android:orderInCategory="100"
+            app:showAsAction="never" />
+</menu>
